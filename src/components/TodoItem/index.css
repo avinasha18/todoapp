@@ -1,0 +1,57 @@
+
+.todo-list-item h3{
+    font-size: 25px;
+    color: #8785A2;
+    font-weight: 600;
+    margin: 0;
+    font-family: 'Plus Jakarta Sans';
+  }
+  
+  .todo-list-item p{
+    font-size: 14px;
+    color: #C1A5A9;
+    margin-top: 8px;
+    font-family: 'Plus Jakarta Sans';
+  }
+  
+  .icon{
+    font-size: 35px;
+    cursor: pointer;
+  }
+  
+  .icon:hover{
+    color: red;
+  }
+  
+  .check-icon{
+    font-size: 25px;
+    margin-left: 10px;
+    color:rgb(0,230,122);
+    cursor: pointer;
+  }
+  
+  .check-icon:hover{
+    color: rgb(4, 196, 106);
+  }
+  
+  .edit__wrapper{
+    background-color: #E0E0E2;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .edit__wrapper input,.edit__wrapper textarea{
+    border: 1px solid lightgray;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 3px;
+  }
+  
+  .edit__wrapper .primaryBtn{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    font-size: 16px;
+    width:fit-content;
+  }
