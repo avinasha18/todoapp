@@ -93,9 +93,13 @@ body{
     margin-bottom: 15px;
   }
   @media(max-width : 420px){
+
     .todo-wrapper {
         width: 80%;
-        height: 90vh;
+        height: 100%;
+    }
+    .todo-input{
+      gap: 15px;
     }
     .todo-input {
         flex-direction: column;
