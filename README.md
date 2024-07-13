@@ -14,7 +14,7 @@ Welcome to the Todo App! This is a simple and intuitive application to help you 
 
 1. **Clone the Repository**: Start by cloning this repository to your local machine.
     ```bash
-    git clone https://github.com/your-username/todo-app.git
+    git clone https://github.com/avinasha18/todo-app.git
     ```
 
 2. **Install Dependencies**: Navigate to the project directory and install the required dependencies.
